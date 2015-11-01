@@ -1,0 +1,11 @@
+[Project]
+FileName=C:\Documents and Settings\JOTROICKNEW\Mis documentos\tarea2.dev
+Name=tarea2
+Use_gpp=1
+UnitCount=1
+ResFiles=C:\Documents and Settings\JOTROICKNEW\Mis documentos\rsrc.rc
+NoConsole=1
+IsDll=0
+Icon=C:\DEV-C_~1\Bin\Mainicon.ico
+[Unit1]
+FileName=Untitled1
